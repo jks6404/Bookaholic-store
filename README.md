@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+link - https://bookaholic-store.netlify.app/
+![image](https://github.com/jks6404/Bookaholic-store/assets/119485859/10e95ff0-9586-4822-bb20-6d123e8b21ee)
+![image](https://github.com/jks6404/Bookaholic-store/assets/119485859/bd56c8ed-262e-4dce-9a8c-5f71b6ff96f5)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
